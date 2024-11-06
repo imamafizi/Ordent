@@ -40,7 +40,7 @@ console.log(combineStrings("abc", "def", "ghi"));
 console.log(combineStrings("qwe", "asd", "zxc"));
 
 
-//TASK #2
+//TASK #2 (Not Sure)
 function remainder(n, m) {
     if (n === 0 && m === 0) return NaN;
     if (n === 0 || m === 0) return NaN;
